@@ -1,2 +1,2 @@
-export const baseUrl = "https://localhost:7290"
+export const baseUrl = "http://188.245.85.109:1000"
 export default baseUrl
